@@ -11,8 +11,8 @@ AdvanceTextUtils is a Django-based web application that provides a suite of text
 In addition to text utilities, the project supports uploading two photos. Users can leverage Django’s built-in file handling to upload and process images.
 ## Photo Demonstration
 
-![Photo Upload Example](img\home.png "Home")
-![Photo Upload Example](img\result.png "result")
+![Home Page](img/home.png "Home")
+![Result](img/result.png "result")
 
 ## Setup Instructions
 1. Ensure you have Python and Django installed.
